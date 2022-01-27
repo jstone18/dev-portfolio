@@ -10591,6 +10591,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 .resume-list .resume-list__block p {
 	margin: 0;
+	font-size: 16px;
 }
 .resume-list .resume-list__block:before {
 	width: 12px;
@@ -10619,7 +10620,6 @@ input[type="number"]::-webkit-outer-spin-button {
 	font-size: 14px;
 	line-height: 20px;
 	color: #999;
-	padding-bottom: 10px;
 }
 .post-cards {
 	margin-bottom: 40px;
